@@ -139,10 +139,6 @@ Outside development, I’m deeply involved in:
 ### Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=aniket-311211&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Listen to my favorite music
 
