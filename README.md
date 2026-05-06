@@ -22,7 +22,7 @@ I believe technology becomes impactful when strong engineering meets communicati
 * Human-centered tech solutions.
 
 
-
+<br clear="right"/>
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
