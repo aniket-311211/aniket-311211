@@ -12,7 +12,6 @@ I believe technology becomes impactful when strong engineering meets communicati
 
 ---
 
-<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/Aniket311211/assets/main/fullstack.gif">
 
 * AI-powered applications and intelligent automation.
 * Full-stack web development.
