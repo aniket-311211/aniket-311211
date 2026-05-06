@@ -153,8 +153,8 @@ Outside development, I’m deeply involved in:
 </div>
 
 <div align="center">
-  <kbd>AI</kbd> <kbd>Stories</kbd> <kbd>Music</kbd> <kbd>Debate</kbd> <kbd>Empathy</kbd>
+  <kbd>AI</kbd> <kbd>Stories</kbd> <kbd>Music</kbd> <kbd>Debate</kbd> <kbd>Anchor</kbd>
 </div>
 
 ---
-![Profile views](https://hit.yhype.me/github/profile?account_id=aniket-311211)
+
