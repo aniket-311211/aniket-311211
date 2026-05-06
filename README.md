@@ -11,7 +11,7 @@ I enjoy developing full-stack applications, experimenting with AI integrations, 
 I believe technology becomes impactful when strong engineering meets communication, creativity, and empathy.
 
 ---
-<img align="right" alt="Coding" width="270" src="./full-stack-developer.gif" style="margin-top:10px;">
+<img align="right" alt="Coding" width="250" src="./full-stack-developer.gif" />
 <h2>🚀 What I Work On</h2>
 
 * AI-powered applications and intelligent automation.
