@@ -12,6 +12,7 @@ I believe technology becomes impactful when strong engineering meets communicati
 
 ---
 
+<img align="right" alt="AI Coding" width="320" src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
 
 ## 🚀 What I Work On
 
