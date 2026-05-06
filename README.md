@@ -21,7 +21,7 @@ I believe technology becomes impactful when strong engineering meets communicati
 * Progressive Web Apps (PWAs).
 * Human-centered tech solutions.
 
----
+
 
 ## 🛠️ Tech Stack
 
