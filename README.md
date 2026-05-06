@@ -127,7 +127,7 @@ Outside development, I’m deeply involved in:
 </div>
 
 ---
-<img align="right" alt="Spider Man" width="380" src="./spider-man-swing.gif" />
+<img align="right" alt="Spider Man" width="420" src="./spider-man-swing.gif" />
 
 
 ## GitHub Statistics
