@@ -12,7 +12,6 @@ I believe technology becomes impactful when strong engineering meets communicati
 
 ---
 
-<img align="right" src="dancing-with-u.gif" width="250" alt="Dancing animation" />
 
 ## 🚀 What I Work On
 
@@ -118,10 +117,10 @@ Outside development, I’m deeply involved in:
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=black)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniket-311211)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/aniket-khatua-15a344382/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aniket_311211)
+[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=black)](mailto:aniket110319@gmail.com)
 [![Open Gmail](https://img.shields.io/badge/Open_in_PC-Gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=black)](https://mail.google.com/mail/u/0/?fs=1&to=YOUR_EMAIL&su=Subject&body=Got%20your%20mail%20from%20GitHub&tf=cm)
 
 </div>
