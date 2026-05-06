@@ -132,27 +132,27 @@ Outside development, I’m deeply involved in:
 <div align="left">
 
 <picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub streak stats" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aniket-311211&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aniket-311211" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-311211" alt="GitHub streak stats" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top languages" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact" alt="Top languages" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=aniket-311211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=false" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" alt="GitHub activity graph" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=aniket-311211&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=false" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=aniket-311211&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-311211&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" alt="GitHub activity graph" />
 </picture>
 
 </div>
@@ -163,8 +163,8 @@ Outside development, I’m deeply involved in:
 
 <div align="left">
 
-![Latest Plays](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=10)
-[![Spotify recently played](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=202020&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+![Latest Plays](https://spotify-recently-played-readme.vercel.app/api?user=qxsudx1f9dzl6kdl7oj1yx1bx&count=10)
+[![Spotify recently played](https://spotify-github-profile.kittinanx.com/api/view?uid=qxsudx1f9dzl6kdl7oj1yx1bx&cover_image=true&theme=default&show_offline=false&background_color=202020&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=qxsudx1f9dzl6kdl7oj1yx1bx&redirect=true)
 <img align="right" src="mecheeling.gif" width="180" alt="Chilling animation" />
 
 </div>
@@ -175,4 +175,4 @@ Outside development, I’m deeply involved in:
 
 ---
 
-![Profile views](https://hit.yhype.me/github/profile?account_id=YOUR_ACCOUNT_ID)
+![Profile views](https://hit.yhype.me/github/profile?account_id=aniket-311211)
