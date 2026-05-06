@@ -128,36 +128,21 @@ Outside development, I’m deeply involved in:
 ---
 
 ## GitHub Statistics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aniket-311211&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aniket-311211&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aniket-311211&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="left">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aniket-311211&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aniket-311211&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aniket-311211" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-311211" alt="GitHub streak stats" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniket-311211&layout=compact" alt="Top languages" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=aniket-311211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/graph?username=aniket-311211&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=false" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/graph?username=aniket-311211&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-311211&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" alt="GitHub activity graph" />
-</picture>
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aniket-311211&icon=4&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Listen to my favorite music
 
