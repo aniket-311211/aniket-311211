@@ -127,10 +127,12 @@ Outside development, I’m deeply involved in:
 </div>
 
 ---
-<img align="right" alt="Spider Man" width="450" src="./spider-man-swing.gif" />
 
 
 ## GitHub Statistics
+
+<img align="right" alt="Spider Man" width="450" src="./spider-man-swing.gif" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aniket-311211&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=aniket-311211&theme=date_night&hide_border=false)<br/>
