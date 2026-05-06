@@ -1,4 +1,4 @@
-> This README is intentionally human-written TwT.
+> This README is not ai generated 🙂.
 
 <img align="right" src="blackkitty.gif" width="200" alt="Black kitty" />
 
