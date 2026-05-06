@@ -12,9 +12,7 @@ I believe technology becomes impactful when strong engineering meets communicati
 
 ---
 
-<img align="right" alt="Full Stack Developer" width="320" src="https://media.tenor.com/images/72903324cf574e9080a6ed3c9734e0ed/tenor.gif">
-
-## 🚀 What I Work On
+<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/Aniket311211/assets/main/fullstack.gif">
 
 * AI-powered applications and intelligent automation.
 * Full-stack web development.
