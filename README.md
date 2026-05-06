@@ -78,17 +78,29 @@ I believe technology becomes impactful when strong engineering meets communicati
 
 ## 🌟 Featured Work
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🧠 Manas Swasthya
 
 An AI-powered mental wellness platform featuring:
 
-* Emotion-aware journaling.
-* Voice, text, and image-based interaction.
-* Medicine AI assistance.
-* Multilingual support.
-* Offline-ready PWA architecture.
-* Integrated peer and professional support systems.
+- Emotion-aware journaling.
+- Voice, text, and image-based interaction.
+- Medicine AI assistance.
+- Multilingual support.
+- Offline-ready PWA architecture.
+- Integrated peer and professional support systems.
 
+</td>
+
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</td>
+
+</tr>
+</table>
 ### 🎙 Native Voice AI
 
 A multilingual AI localization system concept focused on:
