@@ -14,7 +14,7 @@ I believe technology becomes impactful when strong engineering meets communicati
 <img 
   align="right" 
   alt="Coding" 
-  width="320" 
+  width="442" 
   src="./full-stack-developer.gif"
   style="margin-top: 105px;"
 />
