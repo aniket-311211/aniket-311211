@@ -131,20 +131,23 @@ Outside development, I’m deeply involved in:
 
 ## GitHub Statistics
 
-<img align="right" alt="Spider Man" width="450" src="./spider-man-swing.gif" />
+<p align="left">
+  <img align="right" alt="Spider Man" width="320" src="./spider-man-swing.gif" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aniket-311211&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aniket-311211&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aniket-311211&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.shion.dev/api?username=aniket-311211&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" />
+
+  <img src="https://streak-stats.demolab.com/?user=aniket-311211&theme=date_night&hide_border=false" />
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aniket-311211&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<br clear="right"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aniket-311211&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Dev Quotes
+### 💭 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
 ## Listen to my favorite music
 
 <div align="left">
