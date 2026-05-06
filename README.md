@@ -140,18 +140,18 @@ Outside development, I’m deeply involved in:
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-311211&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniket-311211&layout=compact" alt="Top languages" />
 </picture>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=aniket-311211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-311211&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=aniket-311211&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=false" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=aniket-311211&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/graph?username=aniket-311211&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=false" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/graph?username=aniket-311211&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-311211&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" alt="GitHub activity graph" />
 </picture>
 
