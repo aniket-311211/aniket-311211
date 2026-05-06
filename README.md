@@ -14,6 +14,7 @@ I believe technology becomes impactful when strong engineering meets communicati
 <img align="right" alt="Coding" width="320" src="./full-stack-developer.gif">
 ## 🚀 What I Work On
 
+
 * AI-powered applications and intelligent automation.
 * Full-stack web development.
 * Backend systems and scalable architectures.
