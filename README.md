@@ -117,6 +117,8 @@ Outside development, I’m deeply involved in:
 * Radio hosting.
 * Music and guitar.
 * Storytelling and media production.
+* Literature and Poetry
+* Chess ♟️
 
 ---
 
