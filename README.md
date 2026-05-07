@@ -1,6 +1,6 @@
 > This README is not ai generated 🙂.
 
-<img align="right" src="blackkitty.gif" width="200" alt="Black kitty" />
+
 
 # Hey there, I'm **Aniket** 👋
 
@@ -162,7 +162,7 @@ Outside development, I’m deeply involved in:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qxsudx1f9dzl6kdl7oj1yx1bx&cover_image=true&theme=default&show_offline=true&background_color=f29640&interchange=true&profanity=false&bar_color=44caa9)](https://spotify-github-profile.kittinanx.com/api/view?uid=qxsudx1f9dzl6kdl7oj1yx1bx&redirect=true)
 
-<img align="right" src="mecheeling.gif" width="180" alt="Chilling animation" />
+
 
 </div>
 
